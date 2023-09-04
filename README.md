@@ -15,9 +15,9 @@
   <img alt="Discord RPC" src="https://lanyard.cnrad.dev/api/809440131186556958" />
 </p>
 
-<h1 algin="center">My Website Check out!</h1>
+<h1 algin="center">Check My Website Out!</h1>
 
-<img src="https://camo.githubusercontent.com/0c9380122bb9076d84190c0eca3c4f68f759b827cb397677ad30a73ae4076f94/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f776562736974652d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/website-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" style="max-width: 100%;">
+<a href="https://rakunreal.github.io/Website/">to my Web</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
