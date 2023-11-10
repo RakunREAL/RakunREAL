@@ -17,7 +17,7 @@
 
 <h1 algin="center">Check My Website Out!</h1>
 
-<a href="https://rakunreal.github.io/Website/">RAKUN´s WEBSITE</a>
+<a href="https://rakwebsite.netlify.app/">Meine Website :)</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
