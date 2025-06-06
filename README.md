@@ -3,21 +3,16 @@
 
 - 📫 How to reach me **Discord: Rakun#7426**
 
-- ⚡ Fun fact **I am Funny, and a good Minecraft player ;)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/rakun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rakun" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/VwuDT2fgFh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VwuDT2fgFh" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img alt="Discord RPC" src="https://lanyard.cnrad.dev/api/809440131186556958" />
-</p>
+<a href="https://discord.com/users/809440131186556958"><img src="https://lanyard.cnrad.dev/api/809440131186556958?idleMessage=Ich%20mache%20derzeit%20nichts.&theme=dark" /></a>
 
-<h1 algin="center">Check My Website Out!</h1>
-
-<a href="https://rakwebsite.netlify.app/">Meine Website :)</a>
+<h2 algin="center">Check My Website Out!</h2>
+<a href="https://rakwebsite.netlify.app/">My supa dupa Website realtalk xd </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
