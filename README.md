@@ -9,7 +9,7 @@
 <a href="https://discord.gg/https://discord.gg/VwuDT2fgFh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VwuDT2fgFh" height="30" width="40" /></a>
 </p>
 
-<a href="https://discord.com/users/809440131186556958"><img src="https://lanyard.cnrad.dev/api/809440131186556958?idleMessage=Ich%20mache%20derzeit%20nichts.&theme=dark" /></a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/809440131186556958)](https://discord.com/users/809440131186556958)
 
 <h2 algin="center">Check My Website Out!</h2>
 <a href="https://rakwebsite.netlify.app/">My supa dupa Website realtalk xd </a>
